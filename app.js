@@ -11,7 +11,7 @@ let elementoResultado =  document.getElementById('resultado');
 function agregarAmigo(){
     let nombreAmigo = elementoInput.value.trim() // Elimina espacios en blanco
     if (nombreAmigo == ''){
-        alert('No hay nombre para añadir, ingrese uno porfavor.');
+        alert('No hay nombre para añadir. Ingrese uno porfavor.');
     } else {
         listaAmigos.push(nombreAmigo);
         actualizarListaAmigos();
