@@ -6,7 +6,7 @@ Este proyecto es una sencilla aplicación web para realizar un **sorteo de amigo
 - Agregar nombres de amigos a una lista dinámica.
 - Visualizar todos los nombres agregados.
 - Realizar un sorteo aleatorio para seleccionar al "amigo secreto".
-- Validaciones para evitar nombres duplicados o vacíos.
+- Validaciones para evitar nombres vacíos.
 
 ## Tecnologías utilizadas 🛠️
 - **HTML**: Para la estructura de la página.
