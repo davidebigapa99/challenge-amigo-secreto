@@ -16,4 +16,5 @@ Este proyecto es una sencilla aplicación web para realizar un **sorteo de amigo
 ## Cómo usarlo 🚀
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tuusuario/amigo-secreto.git
+   git clone https://github.com/davidebigapa99/challenge-amigo-secreto.git
+2. Abre el archivo index.html en tu navegador.
